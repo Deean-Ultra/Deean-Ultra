@@ -4,4 +4,4 @@
 
 :muscle: I’m currently working on my portfolio
 
-👊 Check out my [Codepen](https://codepen.io/deean-ultra)
+👊 Check out my [Codepen](https://codepen.io/deean-ultra/pens/public)
